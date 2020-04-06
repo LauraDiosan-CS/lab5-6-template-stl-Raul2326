@@ -1,0 +1,3 @@
+Code: 1 | Name: Cookie | Price: 5 | Amount: 9
+Code: 2 | Name: Chips | Price: 4 | Amount: 10
+Code: 3 | Name: Chocolate | Price: 7 | Amount: 10
