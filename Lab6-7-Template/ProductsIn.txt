@@ -1,0 +1,4 @@
+1 Cookie 5 10
+2 Chips 4 10
+3 Chocolate 7 10
+4 Oreo 2 10

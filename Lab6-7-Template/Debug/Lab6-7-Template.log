@@ -1,0 +1,16 @@
+﻿  Lab6-7-Template.cpp
+  Tests.cpp
+C:\Users\Lenovo\Documents\MyVS\Lab6-7-Template\Repo.h(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Lenovo\Documents\MyVS\Lab6-7-Template\Repo.h(57): message : while compiling class template member function 'int Repo<Product>::getPoz(T)'
+          with
+          [
+              T=Product
+          ]
+C:\Users\Lenovo\Documents\MyVS\Lab6-7-Template\Tests.cpp(92): message : see reference to function template instantiation 'int Repo<Product>::getPoz(T)' being compiled
+          with
+          [
+              T=Product
+          ]
+C:\Users\Lenovo\Documents\MyVS\Lab6-7-Template\RepoFile.h(8): message : see reference to class template instantiation 'Repo<Product>' being compiled
+  Generating Code...
+  Lab6-7-Template.vcxproj -> C:\Users\Lenovo\Documents\MyVS\Lab6-7-Template\Debug\Lab6-7-Template.exe
